@@ -15,8 +15,10 @@ Here are some ideas to get you started:
  ⚡ Fun fact: ...
 -->
 
-![My GitHub stats](https://raw.githubusercontent.com/Gusta-Luiz/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![My GitHub Language Stats](https://raw.githubusercontent.com/Gusta-Luiz/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-![My GitHub stats](https://raw.githubusercontent.com/Gusta-Luiz/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![My GitHub Language Stats](https://raw.githubusercontent.com/Gusta-Luiz/github-stats/master/generated/languages.svg#gh-light-mode-only)
+<!--
+https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
+-->
+<a href="https://github.com/Gusta-Luiz/GitHub_Stats">
+<img src="https://github.com/Gusta-Luiz/GitHub_Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/Gusta-Luiz/GitHub_Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
