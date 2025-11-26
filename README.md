@@ -2,8 +2,8 @@
 ### Hello there! 👨🏻‍💻
 
 #### About me:
-💻 Born in May/2002, and interested in technology since childhood  
-🏛 Currently a Computer Science student at Federal University of Paraná  
+💻 Born in May 2002
+🏛 Currently a Computer Science student
 🎓 Learning something new everyday!  
 
 
