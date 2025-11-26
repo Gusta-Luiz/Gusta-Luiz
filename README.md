@@ -2,9 +2,9 @@
 ### Hello there! 👨🏻‍💻
 
 #### About me:
-💻 Born in May 2002 </>
-🏛 Currently a Computer Science student </>
-🎓 Learning something new everyday! </>
+💻 Born in May 2002
+🏛 Currently a Computer Science student
+🎓 Learning something new everyday!
 
 
 
